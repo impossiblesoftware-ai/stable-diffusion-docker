@@ -1,4 +1,4 @@
-# Important appriciation to [fboulnois](https://github.com/fboulnois)
+# Important appreciation to [fboulnois](https://github.com/fboulnois)
 This repository was forked from [fboulnois/stable-diffusion-docker](fboulnois/stable-diffusion-docker)
 
 # Stable Diffusion in Docker
