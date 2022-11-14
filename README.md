@@ -1,3 +1,6 @@
+# Important appriciation to [fboulnois](https://github.com/fboulnois)
+This repository was forked from [fboulnois/stable-diffusion-docker](fboulnois/stable-diffusion-docker)
+
 # Stable Diffusion in Docker
 
 Runs the official [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion)
