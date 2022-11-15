@@ -1,5 +1,5 @@
 # Important appreciation to [fboulnois](https://github.com/fboulnois)
-This repository was forked from [fboulnois/stable-diffusion-docker](fboulnois/stable-diffusion-docker)
+This repository was forked from [fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
 
 # Stable Diffusion in Docker
 
